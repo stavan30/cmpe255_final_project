@@ -14,3 +14,4 @@ Press CTRL+C to quit
 --------------------------------------------------------------------------------------------------------------------------
 
 After this, a link will open for the app, where the user can input details and get predictions for trips.
+The file prediction_model.py should be aboe to load the csv datasets present for usage.
